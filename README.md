@@ -1,6 +1,6 @@
 # Unsupervised-Learning-Models
 
-In this repository, many unsupervised learning algorithms trained on unlabeled dataset (also present in this repository) and evaluated using high accurate evaluation metrics. Code containing comments explaining the working flow.
+In this repository, many unsupervised learning algorithms trained on unlabeled dataset (also present in this repository) and evaluated using high accurate evaluation metrics. Code contains comments explaining the working flow.
 
 1. Programming Language:
 - Python
